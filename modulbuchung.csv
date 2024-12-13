@@ -1,0 +1,33 @@
+﻿buchungsnummer,buchungsdatum,status,pruefungsversuch,pruefungsdatum,note,bestanden,modul_code,student_code
+23,2022-09-05,Bewertung abgeschlossen,1,2022-10-05,1,true,198,109
+123,2022-09-06,Bewertung abgeschlossen,2,2022-11-05,1,true,165,109
+170,2022-09-07,Bewertung abgeschlossen,1,2022-12-06,3,true,231,109
+270,2022-09-08,Bewertung abgeschlossen,2,2023-01-06,3,true,349,109
+370,2022-09-09,Bewertung abgeschlossen,1,2023-02-06,2,true,459,109
+396,2023-03-04,Bewertung abgeschlossen,1,2023-08-31,4,true,572,109
+2,2023-03-05,Bewertung abgeschlossen,1,2023-10-01,1,true,39,109
+479,2023-03-06,Bewertung abgeschlossen,1,2023-11-01,1,true,172,109
+502,2023-03-07,Bewertung abgeschlossen,1,2023-12-02,2,true,249,109
+602,2023-03-08,Bewertung abgeschlossen,1,2024-01-02,4,true,388,109
+24,2023-08-31,Bewertung abgeschlossen,2,2024-07-26,3,true,499,109
+124,2023-09-01,Bewertung abgeschlossen,1,2024-08-26,4,true,579,109
+171,2023-09-02,Bewertung abgeschlossen,1,2024-09-26,1,true,109,109
+271,2023-09-03,Bewertung abgeschlossen,1,2024-10-27,2,true,183,109
+371,2023-09-04,Bewertung abgeschlossen,1,2024-11-27,2,true,270,109
+397,2024-02-27,Bewertung offen,0,2025-06-21,,false,401,109
+3,2024-02-28,Bewertung offen,0,2025-07-22,,false,507,109
+480,2024-02-29,Pruefung angemeldet,0,2025-08-22,,false,641,109
+503,2024-03-01,offen,0,2025-09-22,,false,139,109
+603,2024-03-02,offen,0,2025-10-23,,false,184,109
+25,2024-08-25,offen,0,2026-05-17,,false,313,109
+125,2023-04-30,Bewertung abgeschlossen,1,2023-05-30,1,true,751,1184
+172,2023-05-01,Bewertung abgeschlossen,1,2023-06-30,2,true,927,1184
+272,2023-05-02,Bewertung abgeschlossen,1,2023-07-31,3,true,198,1184
+372,2023-05-03,Bewertung abgeschlossen,1,2023-08-31,4,true,165,1184
+398,2023-10-27,Bewertung abgeschlossen,1,2024-03-25,4,true,231,1184
+4,2023-10-28,Bewertung offen,1,2024-04-25,,false,349,1184
+481,2023-10-29,Bewertung offen,0,2024-05-26,,false,761,1184
+504,2023-10-30,Bewertung offen,2,2024-06-26,,false,932,1184
+604,2024-04-24,Pruefung angemeldet,0,2025-01-19,,false,39,1184
+26,2024-04-25,Pruefung angemeldet,0,2025-02-19,,false,172,1184
+126,2024-04-26,offen,0,2025-03-22,,false,249,1184
